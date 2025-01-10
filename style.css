@@ -58,5 +58,5 @@ body {
 }
 
 #regulation-list a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
